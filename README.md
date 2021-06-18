@@ -1,2 +1,2 @@
 # Unidad_2
-Diplomatura desarrollo web fullstack
+Ejercicio basico de programaciòn HTML.
