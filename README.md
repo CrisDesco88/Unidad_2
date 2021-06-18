@@ -1,2 +1,2 @@
 # Unidad_2
-Ejercicio basico de programaciòn HTML.
+Ejercicio evaluaciòn bàsico de programaciòn HTML.
